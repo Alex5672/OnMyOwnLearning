@@ -2,7 +2,7 @@
 
 namespace OnMyOwnLearning
 {
-    class Program
+    class Learning_String
     {
         static void Main(string[] args)
         {
