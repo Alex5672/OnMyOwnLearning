@@ -2,7 +2,7 @@
 
 namespace OnMyOwnLearning
 {
-    class Learning_String
+    internal class Learning_String
     {
         static void Main(string[] args)
         {
@@ -25,7 +25,6 @@ namespace OnMyOwnLearning
             Console.WriteLine(string.Join("-", Array)); //метод "Join" объединяет значения с определенным разделителем "-" (может быть пробел) 
 
             Console.WriteLine("{0:C2}", 12345);
-
 
 
         }
